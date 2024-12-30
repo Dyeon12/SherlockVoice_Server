@@ -16,5 +16,6 @@
 ## 기술 스택
 - **언어**: <img src="https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white">
 - **프레임워크**: <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=FastAPI&logoColor=white">
-- **AI 모델**: <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=PyTorch&logoColor=white"> <img src="https://img.shields.io/badge/SciPy-8CAAE6?style=for-the-badge&logo=ScyPy&logoColor=white"> <img src="https://img.shields.io/badge/KoBERT-FF7102?style=for-the-badge&logoColor=white"> <img src="https://img.shields.io/badge/TextRank-8D5A9E?style=for-the-badge&logoColor=white">
-- **외부 API**: <img src="https://img.shields.io/badge/Google Speech-to-Text-4285F4?style=for-the-badge&logo=Google Cloud&logoColor=white">
+- **AI 모델**: <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=PyTorch&logoColor=white"> <img src="https://img.shields.io/badge/SciPy-8CAAE6?style=for-the-badge&logo=SciyPy&logoColor=white"> <img src="https://img.shields.io/badge/KoBERT-FF7102?style=for-the-badge&logoColor=white"> <img src="https://img.shields.io/badge/TextRank-8D5A9E?style=for-the-badge&logoColor=white">
+- **외부 API**: <img src="https://img.shields.io/badge/Google Speech-to-Text-4285F4?style=for-the-badge&logo=GoogleCloud&logoColor=white">
+
