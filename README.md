@@ -13,7 +13,9 @@
 
 ## 기술 스택
 - **언어**: <img src="https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white">
-- **프레임워크**:<img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=FastAPI&logoColor=white">
-- **데이터베이스**: PostgreSQL
+- **프레임워크**: <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=FastAPI&logoColor=white">
+- **AI 모델**:
+- #EE4C2C
+- #DB6A26
 - **외부 API**: Google Speech-to-Text (예)
 
