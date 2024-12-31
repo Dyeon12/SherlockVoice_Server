@@ -1,10 +1,8 @@
 <div align="center">
-
 # Sherlock Voice - Backend 👩‍💻    
-
 </div>
 
- <br/> <br/> <br/>
+ <br/> 
 ## 소개
 **Sherlock Voice**는 AI를 활용해 보이스 피싱을 탐지하는 시스템입니다 🕵 <br/>
 이 레포지토리는 프로젝트의 **백엔드 서버** 부분을 다루며, AI 모델 서빙과 API 제공을 담당합니다 👩‍💻 <br/>
