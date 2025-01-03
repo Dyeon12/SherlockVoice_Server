@@ -38,7 +38,7 @@
 
 ## BE 폴더 구조
 ``` C
-📦Final_Server
+📦SherlockVoice_Server
  ┣ 📂models
  ┃ ┣ 📂kobert
  ┃ ┃ ┣ 📜BERTClassifier.py
