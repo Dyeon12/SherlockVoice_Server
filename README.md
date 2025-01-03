@@ -1,6 +1,6 @@
 <div align="center">
  
-# Sherlock Voice - Backend 👩‍💻    
+# Sherlock Voice - BE 👩‍💻    
 
 </div>
 
@@ -37,4 +37,30 @@
 <br/> 
 
 ## 프로젝트 구조
+``` C
+📦Final_Server
+ ┣ 📂models
+ ┃ ┣ 📂kobert
+ ┃ ┃ ┣ 📜BERTClassifier.py
+ ┃ ┃ ┣ 📜BERTDataset.py
+ ┃ ┃ ┣ 📜BERTSentenceTransform.py
+ ┃ ┃ ┣ 📜KoBERT_model.py
+ ┃ ┃ ┣ 📜get_kobert_model.py
+ ┃ ┃ ┣ 📜kobert_tokenizer.py
+ ┃ ┃ ┣ 📜requirements.txt
+ ┃ ┃ ┣ 📜run.py
+ ┃ ┃ ┗ 📜train_7epch.pt
+ ┃ ┣ 📜deepfake_model.py
+ ┃ ┣ 📜shuffle_400.csv
+ ┃ ┗ 📜textrank_model.py
+ ┣ 📂routers
+ ┃ ┣ 📜__init__.py
+ ┃ ┗ 📜inference.py
+ ┣ 📂serverkey
+ ┃ ┣ 📜sv-server.json
+ ┃ ┗ 📜sv_key.pem
+ ┣ 📜Dockerfile
+ ┣ 📜main.py
+ ┗ 📜requirements.txt
+```
 
