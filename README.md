@@ -6,14 +6,14 @@
 
 <br/> 
 
-## 소개
-**Sherlock Voice**는 AI를 활용해 보이스 피싱을 탐지하는 시스템입니다 🕵 <br/>
-이 레포지토리는 프로젝트의 **백엔드 서버** 부분을 다루며, AI 모델 서빙과 API 제공을 담당합니다 👩‍💻 <br/>
-백엔드 서버는 AI 모델과 프론트엔드를 연결하고, 음성 데이터를 처리하여 사용자 신고 프로세스를 지원합니다 📞 <br/>
+## ✅ 소개
+**Sherlock Voice**는 AI를 활용해 보이스 피싱을 탐지하는 시스템입니다 <br/>
+이 레포지토리는 프로젝트의 **백엔드 서버** 부분을 다루며, AI 모델 서빙과 API 제공을 담당합니다 <br/>
+백엔드 서버는 AI 모델과 프론트엔드를 연결하고, 음성 데이터를 처리하여 사용자 신고 프로세스를 지원합니다 <br/>
 
 <br/> 
 
-## Sherlock Voice 주요 기능
+## ✅ Sherlock Voice 주요 기능
 - **AI 모델 서빙**: 보이스 피싱 탐지를 위한 AI 모델 호출 및 결과 반환
 - **API 제공**: 프론트엔드와의 데이터 통신을 위한 RESTful API 구현
 - **음성 데이터 처리**: 음성 파일을 텍스트로 변환하는 외부 API 연동
@@ -23,7 +23,7 @@
 
 <br/> 
 
-## 기술 스택
+## ✅ 기술 스택
 ``` C
 - **언어**: <img src="https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white">
 - **프레임워크**: <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=FastAPI&logoColor=white">
@@ -33,12 +33,12 @@
 
 <br/> 
 
-## Backend 설계
+## ✅ Backend 설계
 ![BackendDesign](https://github.com/user-attachments/assets/f76ab4d4-b463-42be-a1e8-93d8c2ebe3cc)
 
 <br/> 
 
-## BE 폴더 구조
+## ✅ BE 폴더 구조
 ``` C
 📦SherlockVoice_Server
  ┣ 📂models
