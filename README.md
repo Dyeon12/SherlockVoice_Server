@@ -29,7 +29,6 @@
 
 
 ## Backend 설계
-![BackendDesign](https://github.com/user-attachments/assets/0ad79ba9-3c7f-4bd1-a309-477fd546c405)
 
-
+![BackendDesign](https://github.com/user-attachments/assets/f76ab4d4-b463-42be-a1e8-93d8c2ebe3cc)
 
