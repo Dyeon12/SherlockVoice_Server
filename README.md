@@ -57,7 +57,7 @@
  ┃ ┗ 📜inference.py
  ┣ 📂serverkey
  ┃ ┣ 📜sv-server.json
- ┃ ┗ 📜sv_key.pem
+ ┃ ┗ 📜gstt_key.pem
  ┣ 📜Dockerfile
  ┣ 📜main.py
  ┗ 📜requirements.txt
