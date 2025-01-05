@@ -24,7 +24,7 @@
 <br/>
 
 <div align="center">
-<img width="892" alt="스크린샷 2025-01-05 오후 10 35 23" src="https://github.com/user-attachments/assets/dcc725c5-e3ed-4064-87b6-6e2d948a36c3" />
+<img width="900" alt="스크린샷 2025-01-05 오후 10 35 23" src="https://github.com/user-attachments/assets/dcc725c5-e3ed-4064-87b6-6e2d948a36c3" />
 </div>
 
 <br/> 
@@ -76,5 +76,5 @@
 
 ## ✅ Pages
 <div align="center">
-![pages](https://github.com/user-attachments/assets/f457a713-b64b-4740-bd60-f741c6dcb683)
+<img width="900" alt="스크린샷 2025-01-05 오후 11 16 33" src="https://github.com/user-attachments/assets/513bf28d-86be-4bfc-9cb0-3b59a8d04c9b" />
 </div>
