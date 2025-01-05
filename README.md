@@ -63,3 +63,5 @@
  ┗ 📜requirements.txt
 ```
 
+## Pages
+![pages](https://github.com/user-attachments/assets/06ec5ac8-c6e3-47dd-90a7-302891b18c57)
