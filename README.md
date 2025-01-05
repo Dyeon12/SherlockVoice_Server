@@ -76,5 +76,5 @@
 
 ## ✅ Pages
 <div align="center">
-![pages](https://github.com/user-attachments/assets/21228858-59a3-455c-96c6-ba7e06a97118)
+![pages](https://github.com/user-attachments/assets/f457a713-b64b-4740-bd60-f741c6dcb683)
 </div>
