@@ -10,6 +10,9 @@
 **Sherlock Voice**는 AI를 활용해 보이스 피싱을 탐지하는 시스템입니다 <br/>
 이 레포지토리는 프로젝트의 **백엔드 서버** 부분을 다루며, AI 모델 서빙과 API 제공을 담당합니다 <br/>
 백엔드 서버는 AI 모델과 프론트엔드를 연결하고, 음성 데이터를 처리하여 사용자 신고 프로세스를 지원합니다 <br/>
+<div align="center">
+<img width="892" alt="스크린샷 2025-01-05 오후 10 35 23" src="https://github.com/user-attachments/assets/dcc725c5-e3ed-4064-87b6-6e2d948a36c3" />
+</div>
 
 <br/> 
 
@@ -31,7 +34,11 @@
 <br/> 
 
 ## ✅ Backend 설계
+<div align="center">
+
 ![BackendDesign](https://github.com/user-attachments/assets/f76ab4d4-b463-42be-a1e8-93d8c2ebe3cc)
+
+</div>
 
 <br/> 
 
@@ -62,6 +69,9 @@
  ┣ 📜main.py
  ┗ 📜requirements.txt
 ```
+<br />
 
-## Pages
+## ✅ Pages
+<div align="center">
 ![pages](https://github.com/user-attachments/assets/06ec5ac8-c6e3-47dd-90a7-302891b18c57)
+</div>
